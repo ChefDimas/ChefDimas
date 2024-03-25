@@ -10,37 +10,33 @@
 
 ### Languages and Tools:
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-hotpink?style=flat-square&logo=SASS)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=MySQL)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
-![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-black?style=flat-square)
-![Scrapy](https://img.shields.io/badge/-Scrapy-black?style=flat-square&logo=scrapy)
-![Requests](https://img.shields.io/badge/-Requests-black?style=flat-square)
-
----
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-2671E5?style=flat)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-6CA140?style=flat)
+![Scrapy](https://img.shields.io/badge/-Scrapy-417D7A?style=flat&logo=scrapy&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-2671E5?style=flat)
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
 
   <img align="left" alt="Your GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
 
